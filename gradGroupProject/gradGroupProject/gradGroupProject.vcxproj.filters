@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\Downloads\GroupProject\TangibleVirtualObject\TangibleVirtualObject.cpp">
+    <ClCompile Include="objloader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\Downloads\GroupProject\TangibleVirtualObject\objloader.cpp">
+    <ClCompile Include="TangibleVirtualObject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\Downloads\GroupProject\TangibleVirtualObject\objloader.h">
+    <ClInclude Include="objloader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

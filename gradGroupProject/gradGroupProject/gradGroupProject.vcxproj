@@ -143,11 +143,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\Downloads\GroupProject\TangibleVirtualObject\objloader.cpp" />
-    <ClCompile Include="..\..\..\..\..\..\Downloads\GroupProject\TangibleVirtualObject\TangibleVirtualObject.cpp" />
+    <ClCompile Include="objloader.cpp" />
+    <ClCompile Include="TangibleVirtualObject.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\Downloads\GroupProject\TangibleVirtualObject\objloader.h" />
+    <ClInclude Include="objloader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
